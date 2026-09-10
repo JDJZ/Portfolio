@@ -16,7 +16,6 @@
                 As a TD, V1 for corporate live events and an FAA Part 107 licensed remote pilot, I bring a versatile
                 skillset. I am continuously expanding my seat time behind production switchers.
             </div>
-
         </div>
     </div>
 </template>
