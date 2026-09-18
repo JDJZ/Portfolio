@@ -16,14 +16,12 @@
                 As a TD, V1 for corporate live events and an FAA Part 107 licensed remote pilot, I bring a versatile
                 skillset. I am continuously expanding my seat time behind production switchers.
             </div>
-            <div class="newrow">
+            <div class="row2">
 
                 <img class="bigger-img" src="@/assets/ClayCup-2.jpg">
                 <p>ClayCup Live Stream</p>
                 <img class="bigger-img" src="@/assets/ClayCup-3.jpg">
             </div>
-
-
         </div>
 
 
@@ -64,8 +62,9 @@
 
 .bigger-img {
     object-fit: cover;
-    max-width: 400px;
+    max-width: 500px;
 }
+
 
 .img-desc {
     display: flex;
@@ -76,7 +75,7 @@
     gap: 1rem;
 }
 
-.newrow {
+.row2 {
     width: stretch;
     display: flex;
     flex-direction: row;
