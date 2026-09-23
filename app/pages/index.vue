@@ -54,6 +54,12 @@
     }
 }
 
+@media screen and (max-width: 520px) {
+    .content {
+        margin: 0.5rem;
+    }
+}
+
 .big-img {
     object-fit: cover;
     width: 300px;
@@ -83,6 +89,7 @@
     justify-content: center;
     display: flex;
     gap: 1rem;
+    flex-wrap: wrap;
 
 }
 </style>

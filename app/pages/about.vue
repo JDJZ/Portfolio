@@ -15,19 +15,21 @@
 </template>
 
 <style>
-
 .contact-me{
     font-size: 3rem;
 }
 
 .centered{
-    display: flex;
+    /* display: grid;
     align-items: center;
-    align-content: center;
+    align-content: center; */
+    /* grid-template-columns: 1fr; */
+
 }
 
 .content{
     display: flex;
     justify-content: center;
+    max-width: 820px;
 }
 </style>
