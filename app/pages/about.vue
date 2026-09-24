@@ -13,7 +13,7 @@
     </div>
 </template>
 
-<style>
+<style scoped>
 .contact-me{
     font-size: 4rem;
     margin: 0rem;

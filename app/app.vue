@@ -33,7 +33,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 html,
 body {
   margin: 0px;

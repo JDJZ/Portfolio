@@ -54,7 +54,7 @@
     </div>
 </template>
 
-<style>
+<style scoped>
 .content {
     display: flex;
     flex-direction: row;
