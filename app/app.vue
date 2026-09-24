@@ -33,7 +33,7 @@
   </div>
 </template>
 
-<style scoped>
+<style>
 html,
 body {
   margin: 0px;
@@ -45,6 +45,7 @@ html {
 
 .page {
   flex-grow: 1;
+  margin: 0.5rem;
 }
 
 .site {

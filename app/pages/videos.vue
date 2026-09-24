@@ -60,5 +60,6 @@
     flex-direction: row;
     flex-wrap: wrap;
     gap: 3rem;
+    justify-content: center;
 }
 </style>
